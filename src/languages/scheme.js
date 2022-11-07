@@ -186,7 +186,7 @@ export default function(hljs) {
 
   return {
     name: 'Scheme',
-    aliases: ['scm'],
+    aliases: ['scm', 'akku', 'chicken', 'cuile', 'chibi', 'chez', 'ikarus', 'gauche', 'iron', 'mosh', 'loko', 'sagittarius', 'vicare', 'ypsilon'],
     illegal: /\S/,
     contains: [
       hljs.SHEBANG(),

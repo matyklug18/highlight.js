@@ -8,6 +8,7 @@ New Grammars:
 
 Grammars:
 - enh(scheme) scm alias [matyklug18][]
+- enh(scheme) added scm aliases for akku, chicken, guile, chibi, chez, ikarus, gauche, iron, mosh, loko, sagittarius, vicare, ypsilon
 - fix(typescript) patterns like `<T =` are not JSX [Josh Goebel][]
 - fix(bash) recognize the `((` keyword [Nick Chambers][]
 - enh(Ruby) misc improvements (kws, class names, etc)  [Josh Goebel][]
@@ -19,6 +20,7 @@ Grammars:
 - enh(java) add permits keyword to java [MBoegers][]
 - fix(javascript/typescript) correct identifier matching when using numbers [Lachlan Heywood][]
 
+[Jacob Kreyren Hrbek]: https://github.com/kreyren
 [matyklug18]: https://github.com/matyklug18
 [Josh Goebel]: https://github.com/joshgoebel
 [Josh Temple]: https://github.com/joshtemple
